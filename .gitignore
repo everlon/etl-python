@@ -1,0 +1,3 @@
+venv/
+# src/data/raw # O correto é ignorar esta pasta para o envio dos dados originais. Aqui enviei para fins de estudo.
+.DS_Store
